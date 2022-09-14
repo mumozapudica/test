@@ -1,3 +1,3 @@
 # test
 Javascript 
-Javascript projesi
+ -Javascript projesi
